@@ -1,0 +1,135 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education"
+  },
+  "basics": {
+    "name": "Aryan Batra",
+    "email": "batraaryan03@gmail.com",
+    "phone": "(+91) 9149469833",
+    "location": {
+      "address": "India"
+    },
+    "website": "aryanbatras.github.io/portfolio"
+  },
+  "education": [
+    {
+      "institution": "St. Paul's Convent School",
+      "location": "Jammu, India",
+      "gpa": "82%",
+      "studyType": "Secondary",
+      "endDate": "20"
+    },
+    {
+      "location": "Jammu, India",
+      "gpa": "82%",
+      "studyType": "Higher Secondary",
+      "institution": "Little Flower School",
+      "endDate": "22"
+    },
+    {
+      "institution": "MBSCET",
+      "location": "Jammu, India",
+      "studyType": "B.Tech",
+      "area": "Computer Science ",
+      "endDate": "27",
+      "gpa": "8.0"
+    }
+  ],
+  "work": [
+    {
+      "location": "",
+      "website": "",
+      "startDate": "",
+      "endDate": "",
+      "highlights": [
+        null
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "level": "",
+      "keywords": [
+        "Mac"
+      ],
+      "name": "OS"
+    },
+    {
+      "keywords": [
+        "Git",
+        "Docker"
+      ],
+      "name": "Tools"
+    },
+    {
+      "keywords": [
+        "Java",
+        "Kotlin"
+      ],
+      "name": "Languages"
+    },
+    {
+      "keywords": [
+        "Spring",
+        "React",
+        null
+      ],
+      "name": "Frameworks"
+    }
+  ],
+  "projects": [
+    {
+      "name": "3D Data Structure Visualization Library",
+      "keywords": [
+        "Java",
+        "Git",
+        "ffmpeg",
+        null
+      ],
+      "description": "DSA-IN-3D is a full-fledged 3D data structure visualizer built from scratch in Java. It’s made to educate, demonstrate, and inspire—perfect for students, teachers, and curious developers who want to see algorithms and data structures come alive in 3D It features ray tracing, realistic rendering, camera animations, interactive and video modes, and an intuitive .with() API inspired by the Java Collections framework.",
+      "url": "github.com/aryanbatras/DSA-IN-3D"
+    },
+    {
+      "keywords": [
+        "Java",
+        "JDBC",
+        "Sqllite3",
+        "Swing",
+        ""
+      ],
+      "name": "Secure Notes Desktop App",
+      "description": "A password protected and fully encrypted notes app built in java using swing that supports multiple user accounts and handling a database for each user separately, and password encrypted login sessions. ",
+      "url": "github.com/aryanbatras/SecureNotesDesktopApp"
+    },
+    {
+      "keywords": [
+        "Javascript",
+        "OAuth2",
+        "APIs",
+        ""
+      ],
+      "name": "Mini Google Docs",
+      "url": "github.com/aryanbatras/MiniDocs",
+      "description": "A distraction free implementation of google docs to focus on note taking. It uses Google Cloud's OAuth2 and Extended API's of Google Docs And Google Drive for implementation. It login's through user's account and directly saves notes into their docs."
+    }
+  ],
+  "awards": [
+    {
+      "date": "",
+      "awarder": "",
+      "summary": ""
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "projects",
+    "skills",
+    "awards",
+    "work"
+  ]
+}
