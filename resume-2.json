@@ -1,0 +1,129 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education"
+  },
+  "basics": {
+    "name": "Aryan Batra",
+    "email": "batraaryan03@gmail.com",
+    "phone": "(+91) 9149469833",
+    "location": {
+      "address": "India"
+    },
+    "website": "https://www.linkedin.com/in/aryanbatra/"
+  },
+  "education": [
+    {
+      "institution": "St. Paul's Convent School",
+      "location": "Jammu, India",
+      "gpa": "82%",
+      "studyType": "Secondary",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Little Flower School",
+      "location": "Jammu, India",
+      "gpa": "82%",
+      "studyType": "Higher Secondary",
+      "endDate": "2022"
+    },
+    {
+      "institution": "MBSCET",
+      "location": "Jammu, India",
+      "studyType": "B.Tech",
+      "area": "Computer Science",
+      "endDate": "2027",
+      "gpa": "8.0"
+    }
+  ],
+  "work": [],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Java",
+        "Kotlin"
+      ]
+    },
+    {
+      "name": "Frameworks",
+      "keywords": [
+        "Spring",
+        "React"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Git",
+        "Docker"
+      ]
+    },
+    {
+      "name": "OS",
+      "keywords": [
+        "Mac"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "WhatsApp AI Chatbot for NGOs",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "Firebase",
+        "Cloudflare Workers AI",
+        "Docker",
+        "Render",
+        "WhatsApp Cloud API"
+      ],
+      "description": "A production-ready WhatsApp chatbot built with Java and Spring Boot, integrated with Firebase and Cloudflare Workers AI to provide intelligent responses to user queries. Designed specifically for NGOs, it stores messages in Firestore, runs on Docker, and is deployed using Render. The system uses meta webhooks to receive messages, processes them through AI models, and provides accurate, context-aware replies in real time.",
+      "url": "github.com/aryanbatras/WhatsApp-AI-Chatbot"
+    },
+    {
+      "name": "3D Data Structure Visualization Library",
+      "keywords": [
+        "Java",
+        "Git",
+        "FFmpeg"
+      ],
+      "description": "DSA-IN-3D is a full-fledged 3D data structure visualizer built from scratch in Java. Designed to educate and inspire students and developers, it features ray tracing, realistic rendering, camera animations, and a fluent `.with()` API inspired by Java Collections.",
+      "url": "https://github.com/aryanbatras/DSA-IN-3D"
+    },
+    {
+      "name": "Secure Notes Desktop App",
+      "keywords": [
+        "Java",
+        "JDBC",
+        "SQLite",
+        "Swing"
+      ],
+      "description": "A password-protected and fully encrypted desktop notes application supporting multiple user accounts, individual SQLite databases, and encrypted login sessions using Java Swing.",
+      "url": "https://github.com/aryanbatras/SecureNotesDesktopApp"
+    },
+    {
+      "name": "Mini Google Docs",
+      "keywords": [
+        "JavaScript",
+        "OAuth2",
+        "Google Docs API",
+        "Google Drive API"
+      ],
+      "description": "A minimalist, distraction-free notes editor that integrates with Google Docs and Drive using OAuth2. Users can log in with their Google accounts and sync notes directly into their Google Docs.",
+      "url": "https://github.com/aryanbatras/MiniDocs"
+    }
+  ],
+  "awards": [],
+  "sections": [
+    "templates",
+    "profile",
+    "projects",
+    "education",
+    "skills",
+    "awards",
+    "work"
+  ]
+}
