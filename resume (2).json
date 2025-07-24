@@ -1,0 +1,119 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "work": "Experience"
+  },
+  "basics": {
+    "name": "Aryan Batra",
+    "email": "batraaryan03@gmail.com",
+    "phone": "(+91) 9149469833",
+    "location": {
+      "address": "India"
+    },
+    "website": "https://www.linkedin.com/in/aryanbatra/"
+  },
+  "education": [
+    {
+      "institution": "St. Paul's Convent School",
+      "location": "Jammu, India",
+      "gpa": "82%",
+      "studyType": "Secondary",
+      "endDate": "2020"
+    },
+    {
+      "institution": "Little Flower School",
+      "location": "Jammu, India",
+      "gpa": "82%",
+      "studyType": "Higher Secondary",
+      "endDate": "2022"
+    },
+    {
+      "institution": "MBSCET",
+      "location": "Jammu, India",
+      "studyType": "B.Tech",
+      "area": "Computer Science",
+      "endDate": "2027",
+      "gpa": "8.0"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Designed the high level design architecture of 30+ Microservices and made the complex database schema for the backend. Actively managing Jira, Confluence, Bitbucket and collobarating with founders on functional requirements. Developed some microservices in spring boot and reviewed other's codebases. The startup project is still ongoing."
+      ],
+      "company": "MaalaTheStire",
+      "position": "Software Engineer Intern",
+      "location": "Remote",
+      "startDate": "June, 2025",
+      "endDate": "ongoing"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Languages",
+      "keywords": [
+        "Java",
+        "Kotlin",
+        "Python",
+        "JS"
+      ]
+    },
+    {
+      "name": "Tech",
+      "keywords": [
+        "Spring Boot",
+        "MySQL",
+        "AWS",
+        "Docker",
+        "Firebase",
+        "Git"
+      ]
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Github",
+        "Jira",
+        "Confluence",
+        "Bitbucket"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "WhatsApp AI Chatbot for NGOs",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "Firebase",
+        "Cloudflare Workers AI",
+        "Docker",
+        "Render",
+        "WhatsApp Cloud API"
+      ],
+      "description": "This whatsapp chatbot is built for NGOs to support cancer patients in difficult times with warm messages, and any health related advice. The chatbot uses Meta Llama 3 AI running on Dockerized Spring boot Instance in Render Website. Environment variables and encryption has been used for securing firebase credentials. The test messages from user are directly being stored into firebase. And through that context-aware messages are being sent to user."
+    },
+    {
+      "name": "3D Data Structure Visualization Library",
+      "keywords": [
+        "Java",
+        "Git",
+        "FFmpeg"
+      ],
+      "description": "Written 5000+ lines of large codebases. Implemented Builder and Facade design pattern. Live code execution is displayed along with 3D data structure visualization. Complex Graph algorithms, AVL trees, Heaps to LinkedList, Stacks, Queues data structures can be visualized. All sorting algorithms can be visualized by using the library. Used advanced ray tracing concepts and includes different background scenes. Supports 4 modes: live, step-wise, interactive move, and can also save the video using ffmpeg integration. Open-source and cross-platform."
+    }
+  ],
+  "awards": [],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "projects",
+    "skills",
+    "awards"
+  ]
+}
