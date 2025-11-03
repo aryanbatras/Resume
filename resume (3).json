@@ -1,0 +1,159 @@
+{
+  "selectedTemplate": 7,
+  "headings": {
+    "projects": "Projects",
+    "skills": "Skills",
+    "education": "Education",
+    "work": "Experience",
+    "awards": "Achievements"
+  },
+  "basics": {
+    "name": "Aryan Batra",
+    "email": "batraaryan03@gmail.com",
+    "phone": "(+91) 9149469833",
+    "location": {
+      "address": "India"
+    },
+    "website": "https://www.linkedin.com/in/aryanbatra/"
+  },
+  "education": [
+    {
+      "institution": "MBSCET",
+      "location": "Jammu, India",
+      "gpa": "8.0",
+      "studyType": "B.Tech",
+      "endDate": "2027",
+      "area": "Computer Science"
+    },
+    {
+      "institution": "Little Flower School",
+      "location": "Jammu, India",
+      "gpa": "82%",
+      "studyType": "Higher Secondary",
+      "endDate": "2022"
+    }
+  ],
+  "work": [
+    {
+      "highlights": [
+        "Contributed to the early-stage architecture and implementation of a multi-vendor e-commerce platform for homegrown brands, integrated with logistics and payment systems.",
+        "Collaborated with the Tech Lead to design a scalable microservices ecosystem (12+ services) using Java, Spring Boot, AWS (SNS/SQS, API Gateway), and Firebase Authentication.",
+        "Independently developed 4 core microservices — User Profile, Buyer Experience, Seller Finance, and Logistics Service — ensuring clean modular design and efficient communication.",
+        "Implemented multi-vendor order automation via Activepieces, covering workflows like Shopify order webhooks, vendor approvals, Razorpay payment splits, and Shiprocket integrations.",
+        "Applied unit and integration testing practices for reliable inter-service communication and fault tolerance.",
+        "Designed AWS architecture diagrams, gained hands-on DevOps experience (Docker, EC2, Nginx), and participated in continuous deployment discussions.",
+        "Acted briefly as Scrum Master, managing sprint activities in Jira, and collaborated with cross-functional teams using Confluence, GitLab, and Notion.",
+        "Showcased strong ownership, problem-solving, and communication skills throughout the project lifecycle.",
+        "Tech Stack: Java, Spring Boot, AWS (EC2, SNS/SQS, API Gateway), Firebase, Docker, Nginx, React.js (exposure), Activepieces, Jira, GitLab, Postman, Swagger"
+      ],
+      "position": "Software Development Intern",
+      "location": "Kerala",
+      "startDate": "Jul 2025",
+      "company": "Sashel LLP",
+      "endDate": "Oct 2025"
+    },
+    {
+      "highlights": [
+        "Building AI-driven automation systems for clients across healthcare and e-commerce, focusing on integrating AI content generation, workflow orchestration, and social media publishing.",
+        "Designed and implemented an end-to-end AI Social Media Automation workflow for Bohus Tandvårdscentrum (Dental Clinic) using n8n, automating post creation, translation, voiceovers, and scheduling across Instagram and Facebook.",
+        "Architected an AI content generation pipeline combining:  Telegram/WhatsApp triggers for post creation commands.  OpenRouter GPT models for caption and story generation (Swedish + English translation).  Cloudflare Workers AI for image generation via Stable Diffusion.  VoiceRSS TTS API for multilingual voiceovers.  Google Drive & Sheets for structured media and log management.",
+        "Developed automated approval and fallback mechanisms using Telegram interactive bots, allowing human-in-the-loop validation before publication.",
+        "Implemented Facebook Graph API integrations for automatic content upload and carousel post creation, with secure logging and post analytics.",
+        "Key Technologies: n8n, OpenRouter, Cloudflare Workers AI, GPT Models, JavaScript, Meta Graph API, Google Drive & Sheets API, Telegram Bot API, VoiceRSS TTS, Activepieces"
+      ],
+      "company": "Polarions AI",
+      "position": "Automation Engineer",
+      "location": "Sweden",
+      "startDate": "Nov 2025",
+      "endDate": "Present"
+    }
+  ],
+  "skills": [
+    {
+      "name": "OS",
+      "keywords": [
+        "Linux",
+        "Mac"
+      ]
+    },
+    {
+      "keywords": [
+        "Java",
+        "Javascript",
+        "Python"
+      ],
+      "name": "Languages"
+    },
+    {
+      "name": "Tools",
+      "keywords": [
+        "Github",
+        "Jira",
+        "Confluence",
+        "Bitbucket",
+        "Postman",
+        "IntelliJ"
+      ]
+    },
+    {
+      "keywords": [
+        "Spring Boot",
+        "MySQL/PostgreSQL",
+        "AWS/Azure",
+        "Docker",
+        "Firebase/MongoDB",
+        "Terraform",
+        "Ansible",
+        "Jenkins",
+        "Git",
+        "n8n"
+      ],
+      "name": "Tech"
+    }
+  ],
+  "projects": [
+    {
+      "name": "WhatsApp AI Chatbot for NGOs",
+      "keywords": [
+        "Java",
+        "Spring Boot",
+        "Firebase",
+        "Cloudflare Workers AI",
+        "Docker",
+        "Render",
+        "WhatsApp Cloud API"
+      ],
+      "description": "This whatsapp chatbot is built for NGOs to support cancer patients in difficult times with warm messages, and any health related advice. The chatbot uses Meta Llama 3 AI running on Dockerized Spring boot Instance in Render Website. Environment variables and encryption has been used for securing firebase credentials. The test messages from user are directly being stored into firebase. And through that context-aware messages are being sent to user."
+    },
+    {
+      "name": "3D Data Structure Visualization Library",
+      "keywords": [
+        "Java",
+        "Git",
+        "FFmpeg"
+      ],
+      "description": "Written 5000+ lines of large codebases. Implemented Builder and Facade design pattern. Live code execution is displayed along with 3D data structure visualization. Complex Graph algorithms, AVL trees, Heaps to LinkedList, Stacks, Queues data structures can be visualized. All sorting algorithms can be visualized by using the library. Used advanced ray tracing concepts and includes different background scenes. Supports 4 modes: live, step-wise, interactive move, and can also save the video using ffmpeg integration. Open-source and cross-platform."
+    }
+  ],
+  "awards": [
+    {
+      "title": "Book Author",
+      "date": "2024",
+      "summary": "Recognised for being Author of The Philosophical Book - \"The Book Of Rose\""
+    },
+    {
+      "title": "DevOps Certification",
+      "date": "2025",
+      "summary": "Completed the DevOps course including Terraform, Ansible, Docker, Kubernetes"
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "projects",
+    "skills",
+    "awards"
+  ]
+}
