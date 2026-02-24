@@ -1,0 +1,164 @@
+{
+  "selectedTemplate": 1,
+  "headings": {},
+  "basics": {
+    "name": "Aryan Batra",
+    "email": "batraaryan03@gmail.com",
+    "phone": "(+91) 9149469833",
+    "location": {
+      "address": "Jammu & Kashmir, India"
+    },
+    "website": "https://www.linkedin.com/in/aryanbatra/",
+    "summary": "Software Engineer focused on strong computer science fundamentals (DSA, OS, DBMS, CN) and scalable backend systems. Experience building production microservices, AI-driven automation workflows, and early-stage engineering products."
+  },
+  "education": [
+    {
+      "institution": "MBS College of Engineering & Technology",
+      "location": "Jammu, India",
+      "studyType": "B.Tech, Computer Science",
+      "gpa": "8.0",
+      "endDate": "2027"
+    },
+    {
+      "institution": "Little Flower School",
+      "location": "Jammu, India",
+      "studyType": "Higher Secondary (Science)",
+      "gpa": "82%",
+      "startDate": "2020",
+      "endDate": "2022"
+    }
+  ],
+  "work": [
+    {
+      "company": "100xSystems",
+      "position": "Founder",
+      "location": "India",
+      "startDate": "Feb 2026",
+      "endDate": "Present",
+      "highlights": [
+        "Building a CS-focused engineering platform using Next.js, TypeScript, React.js, Supabase, and Cloudflare R2; designing structured learning systems around OS, DBMS, CN, DSA while owning full-stack architecture and product development."
+      ]
+    },
+    {
+      "company": "JU Learning",
+      "position": "Co-Founder & Team Lead",
+      "location": "Jammu, India",
+      "startDate": "Jan 2026",
+      "endDate": "Feb 2026",
+      "highlights": [
+        "Led a 5+ developer team to build and deploy a university notes platform using JavaScript, React.js, and Supabase; mentored juniors in frontend engineering (React, SolidJS, Tailwind CSS, Redux, Zustand) over 3–4 months before closing due to distribution constraints."
+      ]
+    },
+    {
+      "company": "Polarions AI",
+      "position": "Automation Engineer",
+      "location": "Sweden · Remote",
+      "startDate": "Nov 2025",
+      "endDate": "Nov 2025",
+      "highlights": [
+        "Architected AI automation pipelines using OpenRouter models, n8n, Cloudflare Workers, JavaScript, and Meta Graph API to generate, moderate, and publish multilingual social media content with human-in-the-loop validation."
+      ]
+    },
+    {
+      "company": "Sashel LLP",
+      "position": "Software Development Intern",
+      "location": "Kerala · Remote",
+      "startDate": "Jul 2025",
+      "endDate": "Oct 2025",
+      "highlights": [
+        "Actively contributed to early-stage architecture of a 12-service microservices marketplace, collaborating with the Tech Lead to design relational database schemas, modular service boundaries, AWS SNS/SQS-based asynchronous communication, Firebase Authentication flows, and API Gateway integration.",
+        "Independently developed 4 core production microservices in Spring Boot with structured REST APIs, validation layers, and unit/integration testing to ensure reliable inter-service communication.",
+        "Implemented 7+ automation workflows using Activepieces integrating Shopify webhooks, vendor approvals, Razorpay payment splits, and Shiprocket logistics, ensuring fault-tolerant multi-vendor order handling; gained DevOps exposure through Docker, EC2 deployments, and Nginx configuration."
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "name": "Core CS",
+      "keywords": [
+        "DSA",
+        "Operating Systems",
+        "DBMS",
+        "Computer Networks",
+        "System Design",
+        "Concurrency"
+      ]
+    },
+    {
+      "name": "Languages",
+      "keywords": [
+        "Java",
+        "JavaScript",
+        "TypeScript",
+        "Python",
+        "C",
+        "C++",
+        "Bash"
+      ]
+    },
+    {
+      "name": "Backend & Cloud",
+      "keywords": [
+        "Spring Boot",
+        "Microservices",
+        "REST APIs",
+        "AWS",
+        "Firebase",
+        "Docker",
+        "Kubernetes",
+        "Node.js"
+      ]
+    },
+    {
+      "name": "Automation & DevOps",
+      "keywords": [
+        "n8n",
+        "Terraform",
+        "Cloudflare Workers",
+        "Activepieces",
+        "CI/CD",
+        "Github Actions",
+        "Jenkins"
+      ]
+    },
+    {
+      "name": "Frontend",
+      "keywords": [
+        "React",
+        "Next.js",
+        "SolidJS",
+        "Three.js",
+        "Webpack",
+        "Tailwind CSS"
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "name": "Turbo C++ Web IDE (Browser-based DOS Emulation)",
+      "description": "Built a browser-based Turbo C++ IDE using DOSBox and Next.js enabling execution of legacy C programs inside modern environments with custom keyboard controller handling."
+    },
+    {
+      "name": "DSA-IN-3D – Data Structure Visualizer",
+      "description": "Developed a 5,000+ LOC Java engine visualizing trees, graphs, sorting algorithms, and concurrency concepts with custom execution controls."
+    },
+    {
+      "name": "Smart India Hackathon – Dementia Detection System",
+      "description": "Led development of an Android application integrated with a Python-based ML backend for early dementia detection."
+    },
+    {
+      "name": "e-Yantra IIT Bombay – Self Balancing Robot",
+      "description": "Led design and simulation of a self-balancing robot using feedback control algorithms in Python."
+    }
+  ],
+  "awards": [],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "projects",
+    "skills",
+    "awards"
+  ]
+}
